@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Disease Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Disease Prediction Portal</h1>
+        <form action="/predict" method="POST">
+            <div class="form-section">
+                <label>Gender:</label>
+                <input type="text" name="gender" required>
+
+                <label>Age:</label>
+                <input type="number" name="age" required>
+
+                <label>Hemoglobin:</label>
+                <input type="number" name="hemoglobin" step="any" required>
+
+                <label>Neutrophils:</label>
+                <input type="number" name="neutrophils" step="any">
+
+                <label>Lymphocytes:</label>
+                <input type="number" name="lymphocytes" step="any">
+
+                <label>Monocytes:</label>
+                <input type="number" name="monocytes" step="any">
+
+                <label>Eosinophils:</label>
+                <input type="number" name="eosinophils" step="any">
+
+                <label>RBC:</label>
+                <input type="number" name="rbc" step="any">
+
+                <label>HCT:</label>
+                <input type="number" name="hct" step="any">
+
+                <label>MCV:</label>
+                <input type="number" name="mcv" step="any">
+
+                <label>MCH:</label>
+                <input type="number" name="mch" step="any">
+
+                <label>MCHC:</label>
+                <input type="number" name="mchc" step="any">
+
+                <label>RDW_CV:</label>
+                <input type="number" name="rdw_cv" step="any">
+
+                <label>Platelets:</label>
+                <input type="number" name="platelets">
+
+                <label>MPV:</label>
+                <input type="number" name="mpv" step="any">
+
+                <label>PDW:</label>
+                <input type="number" name="pdw" step="any">
+
+                <label>PCT:</label>
+                <input type="number" name="pct" step="any">
+
+                <label>WBC:</label>
+                <input type="number" name="wbc" step="any" placeholder="e.g. 7000">
+
+                <label>Blood Culture:</label>
+                <input type="text" name="blood_culture">
+
+                <label>Urine Culture:</label>
+                <input type="text" name="urine_culture">
+
+                <label>Calcium:</label>
+                <input type="number" name="calcium" step="any">
+
+                <label>Potassium:</label>
+                <input type="number" name="potassium" step="any">
+
+                <button type="submit">Predict Disease</button>
+            </div>
+        </form>
+
+        {% if result_dengue %}
+        <div class="result">
+            <h2>Dengue Test: {{ result_dengue }}</h2>
+            {% if result_typhoid %}
+            <h3>Typhoid Severity: {{ result_typhoid }}</h3>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

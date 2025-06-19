@@ -1,0 +1,501 @@
+Gender,Age,Hemoglobin (g/dL),Platelet Count,Blood Culture Bacteria,Urine Culture Bacteria,Calcium (mg/dL),Potassium (mmol/L),Severity
+Female,38,13.9,259366,Escherichia coli,Klebsiella pneumoniae,8.7,4.9,Low
+Male,48,12.3,208128,Salmonella typhi,-,8.3,4.3,Moderate
+Male,33,10.7,251028,Escherichia coli,-,10,3.8,High
+Male,56,14.9,157787,Salmonella typhi,Klebsiella pneumoniae,9.4,3.7,High
+Male,67,13.1,217075,Salmonella typhi,Escherichia coli,9.8,5,Low
+Female,19,12.8,264479,Salmonella typhi,Klebsiella pneumoniae,8.7,4.9,Low
+Male,55,14.9,178364,Escherichia coli,-,9.1,4.7,Low
+Male,70,14.8,200389,Escherichia coli,Escherichia coli,8.7,4.2,Low
+Female,28,14.7,250223,Staphylococcus,-,9.6,4.1,Moderate
+Male,24,13.2,162206,Escherichia coli,Klebsiella pneumoniae,9.3,4.2,Moderate
+Male,24,13.7,272673,Salmonella typhi,-,8.2,4.2,Low
+Male,64,13.8,168887,Staphylococcus,Escherichia coli,8.7,4.9,Moderate
+Female,37,11.1,178774,Escherichia coli,-,10,4,Moderate
+Female,19,13.9,229204,Staphylococcus,-,9.6,5,Low
+Female,23,12.8,175829,Escherichia coli,Escherichia coli,8.5,5,High
+Female,23,13.7,268949,Staphylococcus,Escherichia coli,9.3,4.8,High
+Female,50,14.4,282514,Salmonella typhi,Escherichia coli,9.7,3.6,Moderate
+Male,25,14.9,280195,Staphylococcus,Escherichia coli,8.6,4.9,High
+Male,48,12.1,233494,Salmonella typhi,-,8.4,4.9,High
+Female,60,11.8,145210,Escherichia coli,Klebsiella pneumoniae,8,4.2,Low
+Female,32,10.3,269533,Staphylococcus,-,10,3.7,Moderate
+Male,20,14.2,232404,Staphylococcus,Escherichia coli,9.3,3.8,Low
+Male,48,13.2,130876,Salmonella typhi,-,8.3,4.4,High
+Male,53,12.3,196866,Staphylococcus,-,8.2,3.7,Low
+Female,29,11.5,226715,Escherichia coli,Escherichia coli,8.4,4.2,Low
+Male,21,10.9,147819,Salmonella typhi,Escherichia coli,8.8,4.5,Moderate
+Male,31,10.1,177467,Staphylococcus,Escherichia coli,9.2,4.6,Low
+Female,64,12.8,186709,Escherichia coli,Klebsiella pneumoniae,8.8,4.7,Low
+Female,63,11.3,138504,Escherichia coli,-,8,3.7,High
+Female,63,13.4,150384,Staphylococcus,Klebsiella pneumoniae,9.8,4,Moderate
+Female,34,13.8,139590,Escherichia coli,Escherichia coli,8.5,4.4,High
+Male,46,11.3,154803,Escherichia coli,-,8.2,4.6,Low
+Female,41,14.6,231163,Salmonella typhi,Klebsiella pneumoniae,8.4,4,High
+Male,53,13.8,254835,Escherichia coli,Escherichia coli,8.4,4.9,High
+Male,52,14,137039,Escherichia coli,Escherichia coli,8.6,3.9,Moderate
+Female,48,12.1,213106,Escherichia coli,-,8.7,4.4,Moderate
+Female,34,10.4,227434,Staphylococcus,Klebsiella pneumoniae,8.9,4.2,Moderate
+Male,55,15,191311,Salmonella typhi,Escherichia coli,9,4.7,High
+Male,55,12.1,190759,Escherichia coli,Escherichia coli,8.8,3.9,Low
+Male,58,11.4,125831,Staphylococcus,Klebsiella pneumoniae,8.5,4.4,Moderate
+Male,68,13.4,240767,Escherichia coli,Klebsiella pneumoniae,9,4.4,Low
+Male,58,12,179443,Escherichia coli,Escherichia coli,9.5,4.1,Moderate
+Female,51,11.7,273730,Escherichia coli,Klebsiella pneumoniae,9.3,3.8,Moderate
+Female,46,11.8,178595,Staphylococcus,Escherichia coli,8.3,3.6,Moderate
+Female,44,14.6,211337,Escherichia coli,Escherichia coli,8.4,3.7,Moderate
+Male,32,11.5,204730,Salmonella typhi,Klebsiella pneumoniae,9.7,3.9,High
+Male,54,11,266999,Staphylococcus,-,8.3,4.9,Moderate
+Female,54,13.1,149319,Staphylococcus,Klebsiella pneumoniae,8.5,4.7,High
+Male,68,12.8,124105,Salmonella typhi,Klebsiella pneumoniae,8.4,4.8,Low
+Female,60,13.9,165846,Salmonella typhi,Escherichia coli,9.4,5,Moderate
+Female,41,14.6,132423,Salmonella typhi,Klebsiella pneumoniae,9.3,4.8,Low
+Male,49,10.4,203504,Staphylococcus,Klebsiella pneumoniae,8.7,4.8,Low
+Female,25,10.7,135912,Escherichia coli,Escherichia coli,9.5,3.7,Low
+Male,64,11.8,218056,Escherichia coli,-,8.6,4.3,Low
+Male,30,11.6,271906,Staphylococcus,Escherichia coli,9.9,4.4,High
+Female,59,12.7,133464,Escherichia coli,Escherichia coli,9.4,3.7,Low
+Male,40,10.8,143215,Staphylococcus,Escherichia coli,9,3.8,High
+Female,31,13.3,169281,Escherichia coli,Escherichia coli,9.9,4,Low
+Female,58,12.8,226660,Escherichia coli,Klebsiella pneumoniae,9.1,3.6,Low
+Male,40,14,240563,Escherichia coli,Klebsiella pneumoniae,8,4.6,High
+Female,70,14.2,141495,Salmonella typhi,Escherichia coli,9.1,4.4,High
+Female,61,11.6,139761,Staphylococcus,Klebsiella pneumoniae,9.4,3.8,Moderate
+Female,66,12.6,157676,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,Moderate
+Male,22,11.3,298257,Salmonella typhi,Escherichia coli,9.9,4,High
+Male,39,11.3,233052,Salmonella typhi,Escherichia coli,9,4,High
+Male,49,11.8,157731,Staphylococcus,Escherichia coli,9.2,4.9,High
+Female,49,12,257617,Escherichia coli,Klebsiella pneumoniae,9.9,4.4,High
+Female,35,12.8,202773,Salmonella typhi,Klebsiella pneumoniae,8.7,3.8,Moderate
+Male,37,14.7,247630,Staphylococcus,-,8.7,4,High
+Male,34,11,299040,Staphylococcus,-,9.9,4,Low
+Female,43,10.7,197970,Escherichia coli,Escherichia coli,8.6,4.7,Moderate
+Female,28,14,251367,Staphylococcus,Klebsiella pneumoniae,8.8,3.8,High
+Female,60,10.6,173041,Staphylococcus,-,9.8,4.2,Low
+Female,37,13.3,296502,Escherichia coli,Escherichia coli,8.2,4.5,High
+Female,38,12.8,126804,Staphylococcus,Klebsiella pneumoniae,9.4,3.9,Low
+Male,37,11.7,153602,Staphylococcus,Escherichia coli,8.3,4.6,Low
+Male,34,14.8,120255,Staphylococcus,Escherichia coli,9.9,3.9,High
+Male,53,12.1,158382,Salmonella typhi,-,8.5,3.7,Low
+Male,62,10.5,192953,Salmonella typhi,Escherichia coli,8.1,4.2,Low
+Female,62,12.6,179031,Staphylococcus,-,8.1,4.3,Low
+Female,42,11.8,241035,Escherichia coli,Klebsiella pneumoniae,8.2,4.8,Moderate
+Female,40,14.5,123716,Escherichia coli,-,9.2,4,Moderate
+Male,53,14.1,282754,Staphylococcus,-,8,5,Low
+Male,38,12.7,222301,Staphylococcus,Klebsiella pneumoniae,9.4,3.7,Moderate
+Male,53,13.9,206539,Salmonella typhi,-,9.7,4.5,Moderate
+Male,59,13.5,247444,Escherichia coli,Klebsiella pneumoniae,9.4,3.5,Moderate
+Male,67,13.2,143442,Staphylococcus,Escherichia coli,9.6,4.7,Moderate
+Male,42,14,285053,Staphylococcus,Escherichia coli,9.1,4.3,Low
+Female,47,10.5,256449,Salmonella typhi,-,9.9,4.2,Moderate
+Male,45,10.1,221098,Salmonella typhi,-,9.9,3.8,Moderate
+Male,42,11.3,175743,Staphylococcus,-,8.9,4.5,Low
+Male,28,14.9,193536,Staphylococcus,-,8.2,3.6,Moderate
+Female,25,13.2,257244,Salmonella typhi,Klebsiella pneumoniae,9,4.6,Low
+Female,21,14.2,180288,Salmonella typhi,-,9.1,3.5,High
+Female,32,13.1,125605,Escherichia coli,-,8.3,4.2,High
+Male,21,10.5,194804,Salmonella typhi,Escherichia coli,8.7,4.3,Low
+Male,70,13.2,240427,Salmonella typhi,Escherichia coli,9.6,4.6,High
+Male,61,10.2,261628,Salmonella typhi,-,8.1,4,High
+Male,63,13.1,255927,Salmonella typhi,Escherichia coli,9.5,4.5,Low
+Male,35,14.4,299799,Staphylococcus,Escherichia coli,9.7,4.8,Moderate
+Female,38,13.9,293212,Escherichia coli,Klebsiella pneumoniae,9.2,3.8,Low
+Female,51,14.8,128204,Salmonella typhi,Escherichia coli,8.8,4.8,Low
+Female,59,13.8,176029,Salmonella typhi,-,9.9,4.1,Low
+Female,28,10.9,232128,Salmonella typhi,Escherichia coli,8.3,4.5,Low
+Male,53,14.5,138711,Staphylococcus,-,9.4,4.7,High
+Male,60,11.2,247329,Salmonella typhi,-,9.8,4.8,Moderate
+Female,42,10.9,223968,Staphylococcus,Klebsiella pneumoniae,9.9,4.7,Moderate
+Male,20,14.4,212938,Escherichia coli,Escherichia coli,8.8,3.8,Low
+Female,29,10.2,281529,Staphylococcus,Escherichia coli,9.4,3.7,Moderate
+Female,68,12.3,212174,Staphylococcus,Escherichia coli,8.2,3.8,Low
+Female,55,14.4,241787,Escherichia coli,Escherichia coli,8.5,4.6,High
+Male,38,13.5,210954,Salmonella typhi,Escherichia coli,9.3,4.4,Moderate
+Female,26,12.9,286100,Salmonella typhi,Klebsiella pneumoniae,9.2,4.5,Low
+Female,47,11.1,228631,Escherichia coli,Klebsiella pneumoniae,9.3,3.9,High
+Male,50,10.3,227431,Staphylococcus,-,9.9,4.1,Moderate
+Female,59,13.9,275815,Escherichia coli,Escherichia coli,9.6,4.1,High
+Male,53,14.6,128488,Escherichia coli,Klebsiella pneumoniae,9.8,4.7,High
+Male,32,10.5,256889,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,Low
+Male,29,12.3,169752,Staphylococcus,-,9.7,3.5,Low
+Male,20,13.8,283791,Staphylococcus,-,9.3,4.1,Low
+Female,67,10.2,266270,Escherichia coli,Klebsiella pneumoniae,8.4,4.9,High
+Female,33,11,141738,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,Low
+Female,18,11.7,228923,Salmonella typhi,Escherichia coli,8.7,4.2,Moderate
+Male,65,11.4,153265,Salmonella typhi,Klebsiella pneumoniae,9.5,4.8,High
+Male,60,10.2,147573,Escherichia coli,Escherichia coli,9.2,3.7,Moderate
+Female,24,13.8,233659,Salmonella typhi,Escherichia coli,9.6,4.3,High
+Male,25,10.3,150715,Salmonella typhi,-,8.1,4.6,High
+Male,31,11.6,203732,Escherichia coli,Klebsiella pneumoniae,8,3.9,Moderate
+Female,58,12.1,155222,Escherichia coli,Escherichia coli,8.5,4.1,Moderate
+Female,49,11.3,247396,Staphylococcus,-,8.8,4.6,Low
+Male,60,12,193271,Salmonella typhi,Klebsiella pneumoniae,8.5,3.9,Low
+Female,32,12.8,217500,Salmonella typhi,Escherichia coli,8.8,4.8,High
+Female,47,11.3,172687,Staphylococcus,-,8.8,4.3,Moderate
+Female,34,12.3,207345,Escherichia coli,-,8.7,3.5,High
+Female,65,11.3,142806,Salmonella typhi,Escherichia coli,8.2,4.2,Low
+Male,55,11.1,232215,Staphylococcus,Klebsiella pneumoniae,8,4.7,Low
+Female,68,13.9,173171,Escherichia coli,Escherichia coli,8.7,4.1,Low
+Female,53,14.2,241424,Salmonella typhi,Escherichia coli,9.2,4.8,Moderate
+Male,41,11.1,275734,Salmonella typhi,Klebsiella pneumoniae,9.1,4.7,Low
+Male,41,14,219718,Staphylococcus,Klebsiella pneumoniae,8,4.1,Low
+Female,30,11.9,292256,Staphylococcus,Klebsiella pneumoniae,9,3.8,High
+Male,22,12,130911,Staphylococcus,Klebsiella pneumoniae,8.8,4.8,High
+Male,48,10.3,168075,Escherichia coli,Klebsiella pneumoniae,8.7,4.5,Low
+Male,58,13.6,250807,Escherichia coli,-,8.9,3.7,Moderate
+Male,23,10.6,131751,Staphylococcus,Escherichia coli,9.2,4,High
+Male,37,14.6,279103,Escherichia coli,Escherichia coli,9.5,4.3,Low
+Female,52,14,142783,Escherichia coli,Klebsiella pneumoniae,9.7,4,Low
+Female,68,10.8,275083,Salmonella typhi,Escherichia coli,9.6,4.7,High
+Female,45,10.9,148417,Salmonella typhi,-,10,4.1,Moderate
+Male,40,13.2,296947,Staphylococcus,Escherichia coli,9.7,4.7,Moderate
+Female,42,13.8,121427,Escherichia coli,Escherichia coli,9.8,4.2,Low
+Female,29,11.7,257674,Staphylococcus,-,8.3,4.2,Low
+Female,22,10.2,171452,Escherichia coli,Klebsiella pneumoniae,8.4,3.7,High
+Male,19,12.8,167640,Salmonella typhi,Klebsiella pneumoniae,9.4,3.8,High
+Male,36,10.8,219905,Escherichia coli,Klebsiella pneumoniae,9.1,4.8,High
+Male,47,13.4,219780,Salmonella typhi,Escherichia coli,9.1,4.4,Low
+Male,55,15,163088,Salmonella typhi,Escherichia coli,8.7,4.7,Low
+Male,70,14,283006,Staphylococcus,Klebsiella pneumoniae,9.3,4.2,Low
+Male,32,14.6,285586,Salmonella typhi,Escherichia coli,9.6,4.7,High
+Male,20,12.8,251961,Staphylococcus,Escherichia coli,8.6,4.5,Moderate
+Female,47,11.6,191334,Salmonella typhi,Escherichia coli,8.9,4.9,High
+Female,46,11.6,154095,Escherichia coli,Klebsiella pneumoniae,9,5,High
+Female,44,14.9,237458,Staphylococcus,-,9,4.9,Low
+Male,34,12.1,201587,Staphylococcus,Escherichia coli,9.6,4.5,Moderate
+Female,46,14.5,212879,Staphylococcus,-,8.8,4.9,Low
+Female,23,14,129476,Staphylococcus,Escherichia coli,9,5,Low
+Female,35,14,251719,Salmonella typhi,Escherichia coli,8.3,3.6,High
+Male,56,11.4,226983,Escherichia coli,-,8,3.9,Low
+Male,34,12.8,275995,Salmonella typhi,-,8.8,4.6,Moderate
+Female,24,14.7,203401,Salmonella typhi,-,8,3.8,Moderate
+Male,53,14.6,212127,Salmonella typhi,Escherichia coli,9.8,4,High
+Male,63,10.4,123473,Escherichia coli,-,8.8,4,Moderate
+Female,59,10,190527,Escherichia coli,Escherichia coli,9.5,4.1,High
+Female,42,14.7,298403,Salmonella typhi,-,8.4,4.7,Moderate
+Male,66,12.2,127651,Staphylococcus,Escherichia coli,8.4,3.5,Low
+Male,32,10.5,289323,Staphylococcus,-,9.7,4.6,High
+Male,70,14.5,251881,Staphylococcus,Escherichia coli,8.6,4.3,Low
+Female,52,13.2,165120,Staphylococcus,-,9.5,4.4,Moderate
+Male,42,11.4,225541,Staphylococcus,Escherichia coli,9.7,4.9,High
+Male,18,12.4,207917,Salmonella typhi,Escherichia coli,9.3,4,High
+Male,46,11.2,240018,Staphylococcus,Klebsiella pneumoniae,8.4,3.8,Low
+Female,49,13.8,204987,Staphylococcus,Klebsiella pneumoniae,8.3,4.4,High
+Male,66,14.4,217134,Salmonella typhi,Escherichia coli,9,3.6,Low
+Female,19,12.7,219844,Escherichia coli,Klebsiella pneumoniae,10,4.7,Low
+Female,29,10.2,269063,Escherichia coli,-,8.4,4.1,Moderate
+Male,47,13.1,198078,Escherichia coli,-,9,4.6,Low
+Male,36,11.1,224202,Salmonella typhi,-,8.8,3.9,Low
+Female,35,14.4,233912,Staphylococcus,-,8.4,3.6,Low
+Male,24,11,138251,Salmonella typhi,-,9.9,4.6,Moderate
+Male,26,13.7,159499,Escherichia coli,-,10,4.5,Moderate
+Male,48,14.7,120593,Escherichia coli,Klebsiella pneumoniae,8.1,3.9,Low
+Female,67,12,268578,Staphylococcus,Klebsiella pneumoniae,10,4.3,Moderate
+Female,58,10.3,126391,Escherichia coli,Klebsiella pneumoniae,8.6,4.7,Moderate
+Female,36,14.7,126949,Salmonella typhi,Escherichia coli,9.8,4.9,High
+Male,21,14.5,182597,Escherichia coli,Klebsiella pneumoniae,8.4,4.5,High
+Male,41,10.5,153282,Salmonella typhi,Escherichia coli,9.8,3.9,High
+Male,22,12.2,170104,Staphylococcus,Escherichia coli,8.7,4.1,Moderate
+Male,24,13.5,172544,Staphylococcus,-,9.9,4.1,Moderate
+Female,35,12.4,229907,Salmonella typhi,Escherichia coli,9.9,4.4,Low
+Female,51,13.6,289899,Escherichia coli,Klebsiella pneumoniae,9.5,4.6,Moderate
+Male,48,10.9,282723,Escherichia coli,Escherichia coli,9.6,3.8,Moderate
+Female,50,11.5,178069,Salmonella typhi,Escherichia coli,8.4,4.7,High
+Female,32,11.1,171322,Escherichia coli,-,9.7,4.5,Low
+Male,38,11.6,238774,Salmonella typhi,Klebsiella pneumoniae,9.4,4.2,High
+Female,57,10.3,196319,Escherichia coli,Klebsiella pneumoniae,8.1,4.1,High
+Male,69,14.3,234261,Staphylococcus,Klebsiella pneumoniae,9.7,4.1,High
+Female,60,10.6,256250,Staphylococcus,Escherichia coli,8.1,4.9,Moderate
+Female,52,13.9,146470,Staphylococcus,Escherichia coli,8.9,3.7,Low
+Male,29,11,236887,Staphylococcus,-,8.6,4.7,Moderate
+Male,57,11.2,152117,Escherichia coli,Escherichia coli,9.3,4.2,High
+Female,57,10.5,151932,Escherichia coli,-,10,3.7,High
+Male,68,13.4,165111,Escherichia coli,-,9.9,3.8,High
+Female,51,13.7,175624,Escherichia coli,Escherichia coli,8.1,3.6,Low
+Male,50,12.6,263443,Salmonella typhi,Escherichia coli,9.9,4.1,Moderate
+Female,54,10.7,208888,Escherichia coli,-,9.7,4,High
+Female,64,13.6,268625,Escherichia coli,-,9.6,3.6,Moderate
+Female,21,10.4,223413,Salmonella typhi,Escherichia coli,9.2,4.7,High
+Female,47,10,244392,Staphylococcus,Escherichia coli,8.4,5,High
+Male,31,12.9,167056,Salmonella typhi,-,8.9,4.3,Low
+Female,37,13.4,220988,Staphylococcus,Klebsiella pneumoniae,9.7,4.8,Moderate
+Male,63,11.2,270096,Escherichia coli,Escherichia coli,8.7,4.5,Moderate
+Male,49,14.6,139074,Escherichia coli,Escherichia coli,8.9,4.5,Moderate
+Male,33,10.3,212043,Escherichia coli,Escherichia coli,9.4,3.9,Low
+Male,22,10.3,176742,Salmonella typhi,Klebsiella pneumoniae,8.8,4.8,Low
+Female,31,12,265666,Escherichia coli,Klebsiella pneumoniae,9,4.8,Moderate
+Female,41,14,197374,Escherichia coli,-,8.3,4.2,Moderate
+Female,65,11.5,264097,Escherichia coli,Escherichia coli,8.3,4.5,Low
+Female,27,12.3,184811,Staphylococcus,Klebsiella pneumoniae,9.8,4.5,Low
+Male,23,13.8,194376,Escherichia coli,Escherichia coli,9.4,4.7,Low
+Male,62,12.6,157204,Staphylococcus,Klebsiella pneumoniae,9,4.1,Low
+Female,31,11.8,259855,Escherichia coli,Klebsiella pneumoniae,9.1,3.9,Low
+Male,40,11.9,191388,Escherichia coli,-,8.9,4.4,Low
+Male,28,13.7,247281,Staphylococcus,-,8.8,4.1,Moderate
+Female,23,14,195962,Escherichia coli,Escherichia coli,8.5,4.8,Moderate
+Female,44,10,211914,Salmonella typhi,Klebsiella pneumoniae,9.8,4.2,Moderate
+Male,35,11.1,232301,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,Moderate
+Female,63,14.5,242715,Escherichia coli,Escherichia coli,9.4,4.9,Low
+Female,69,11.7,200188,Salmonella typhi,-,9.5,4.5,Moderate
+Male,50,12.6,171477,Staphylococcus,Klebsiella pneumoniae,9.9,4.5,Low
+Male,54,12.4,187155,Staphylococcus,Klebsiella pneumoniae,9,3.6,High
+Female,70,13,237778,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,High
+Female,38,14.5,161744,Staphylococcus,Klebsiella pneumoniae,9.9,3.8,High
+Male,22,14.9,269700,Salmonella typhi,-,8.5,4.1,High
+Male,32,11.8,271383,Salmonella typhi,-,8.7,4.1,Moderate
+Female,69,12.6,289018,Escherichia coli,Escherichia coli,9.2,3.6,High
+Female,58,14.5,193798,Staphylococcus,Klebsiella pneumoniae,8.6,3.7,Moderate
+Male,54,12.4,197608,Escherichia coli,Klebsiella pneumoniae,8.4,4,High
+Male,19,12.6,252629,Salmonella typhi,Escherichia coli,9.1,3.9,Moderate
+Male,61,10.9,221440,Staphylococcus,Escherichia coli,9.2,4.9,High
+Male,69,14.9,271235,Staphylococcus,Escherichia coli,9.8,3.6,Low
+Female,30,10.9,166253,Staphylococcus,Klebsiella pneumoniae,9,3.6,Low
+Female,59,12.3,164755,Salmonella typhi,Escherichia coli,8.2,4.8,Low
+Male,58,13,218991,Staphylococcus,Klebsiella pneumoniae,8.1,4.2,Moderate
+Male,24,14.3,182136,Escherichia coli,Klebsiella pneumoniae,9.7,3.9,High
+Female,23,11.1,195391,Escherichia coli,-,8.3,4.9,Moderate
+Female,31,10.6,251934,Staphylococcus,Escherichia coli,9.8,4.1,Low
+Male,44,11,269761,Escherichia coli,Klebsiella pneumoniae,8.3,4,Low
+Male,43,10.4,162860,Staphylococcus,Escherichia coli,9.5,4,Low
+Male,29,12.7,184020,Salmonella typhi,Klebsiella pneumoniae,8.3,3.6,High
+Female,41,14.5,267185,Staphylococcus,Klebsiella pneumoniae,8.8,3.9,Low
+Male,32,10.5,130848,Salmonella typhi,-,9.5,4.5,Low
+Male,24,11.1,290878,Staphylococcus,Escherichia coli,8.8,4.7,Low
+Male,64,12.6,212644,Salmonella typhi,Klebsiella pneumoniae,9.9,4.6,Low
+Male,58,13.3,200716,Escherichia coli,Escherichia coli,9.7,4.3,Moderate
+Female,22,10.1,172574,Staphylococcus,Klebsiella pneumoniae,8.4,4.6,Moderate
+Female,41,14.2,175143,Salmonella typhi,-,8.2,4.1,Moderate
+Female,37,13.6,272076,Staphylococcus,Klebsiella pneumoniae,8.8,3.5,High
+Female,36,13.1,195874,Staphylococcus,-,9,4,Low
+Female,25,12.2,293506,Staphylococcus,Klebsiella pneumoniae,8.9,4.1,High
+Female,25,10.2,232223,Escherichia coli,Escherichia coli,9.2,5,Low
+Male,31,13.8,297910,Escherichia coli,Klebsiella pneumoniae,9.2,4.3,Moderate
+Female,28,11.3,139608,Escherichia coli,-,8.7,3.9,Low
+Female,57,14,206089,Escherichia coli,-,8.6,4.5,Low
+Female,51,10.4,292860,Staphylococcus,Escherichia coli,9.4,3.7,Low
+Female,31,10.5,122572,Staphylococcus,-,9.9,3.8,High
+Male,40,12.8,221970,Staphylococcus,Klebsiella pneumoniae,9.4,4.6,High
+Female,33,13.6,267979,Salmonella typhi,Escherichia coli,8.7,3.9,High
+Female,48,12.3,228108,Staphylococcus,-,8.9,5,Moderate
+Male,43,12,135752,Salmonella typhi,Klebsiella pneumoniae,9.1,4.9,High
+Female,25,13.1,261383,Escherichia coli,-,10,4.5,Low
+Female,23,14,266451,Salmonella typhi,Escherichia coli,8.4,3.8,Low
+Male,27,12.3,240582,Salmonella typhi,Klebsiella pneumoniae,9.2,4.1,Low
+Male,19,11.4,211866,Salmonella typhi,Klebsiella pneumoniae,9.8,4.9,High
+Female,59,13.3,177558,Staphylococcus,Escherichia coli,9.7,4.8,High
+Female,61,13.3,228861,Escherichia coli,-,8.3,3.9,High
+Male,49,12.8,274106,Salmonella typhi,Klebsiella pneumoniae,9.4,4.6,Low
+Male,32,13.7,159786,Salmonella typhi,Klebsiella pneumoniae,8.5,4.4,Low
+Male,51,11.4,179461,Salmonella typhi,Escherichia coli,9.1,4.5,Low
+Female,63,11,265338,Escherichia coli,Klebsiella pneumoniae,8.8,4.4,Low
+Male,31,11.8,149338,Salmonella typhi,-,9.4,3.8,Moderate
+Male,49,12.4,185115,Salmonella typhi,Klebsiella pneumoniae,8.7,4.6,High
+Female,51,12.5,248124,Escherichia coli,Klebsiella pneumoniae,9,3.5,Low
+Male,43,14.2,148321,Staphylococcus,Escherichia coli,9,4.8,High
+Male,22,14.4,233424,Escherichia coli,-,9.3,3.7,Low
+Male,18,10.8,224095,Salmonella typhi,Escherichia coli,10,4,Moderate
+Male,63,10.4,133666,Staphylococcus,Klebsiella pneumoniae,8.7,4.2,High
+Female,18,10.1,145800,Salmonella typhi,Klebsiella pneumoniae,9.8,4.3,High
+Female,34,11,149275,Escherichia coli,-,8.6,3.5,Moderate
+Female,33,12.5,207422,Salmonella typhi,Klebsiella pneumoniae,8.7,4.4,High
+Female,27,12.8,177049,Staphylococcus,Klebsiella pneumoniae,9.7,3.6,Moderate
+Female,60,13.8,182928,Salmonella typhi,-,8.7,4.1,High
+Male,32,12.3,203540,Escherichia coli,Escherichia coli,8.4,4.8,Low
+Male,24,13.6,209748,Salmonella typhi,Escherichia coli,9.5,4.7,Low
+Female,32,13.9,241071,Escherichia coli,-,8.2,4.9,High
+Female,46,11.3,219163,Salmonella typhi,-,9,3.7,High
+Female,27,13.6,124060,Staphylococcus,-,9.7,5,Moderate
+Male,33,12.3,230146,Salmonella typhi,Escherichia coli,9.4,4.9,Moderate
+Male,60,11.4,258260,Escherichia coli,Klebsiella pneumoniae,8.8,4,High
+Female,51,14,174907,Staphylococcus,-,9,4,Moderate
+Male,39,13.8,153174,Escherichia coli,-,9.4,4.5,Moderate
+Female,55,14.7,135664,Staphylococcus,Klebsiella pneumoniae,10,5,High
+Female,34,11.7,125929,Escherichia coli,Klebsiella pneumoniae,8.7,3.5,High
+Male,59,12.2,262214,Salmonella typhi,Klebsiella pneumoniae,9.2,3.5,High
+Male,51,14.7,220513,Staphylococcus,Escherichia coli,8.2,3.9,Moderate
+Female,42,14.7,230812,Escherichia coli,Escherichia coli,9.8,4.5,High
+Male,37,13,182340,Staphylococcus,Klebsiella pneumoniae,8.9,3.8,Low
+Male,42,11.9,136833,Staphylococcus,-,9.3,4.6,Moderate
+Male,43,12.3,227911,Escherichia coli,Escherichia coli,9.2,4.5,High
+Male,20,11.8,245572,Escherichia coli,-,9.4,4.9,Low
+Female,53,13.8,205110,Salmonella typhi,-,8.7,4.4,Moderate
+Male,31,11.6,275656,Salmonella typhi,Escherichia coli,8.3,5,Low
+Male,65,11.8,203679,Salmonella typhi,-,8.2,4.1,Low
+Male,24,10.9,239060,Staphylococcus,Klebsiella pneumoniae,9,4,Low
+Male,67,13.6,188685,Escherichia coli,Escherichia coli,8.3,4.7,High
+Male,63,14.8,232135,Staphylococcus,Klebsiella pneumoniae,9.8,3.8,Low
+Female,24,11.9,255792,Salmonella typhi,Escherichia coli,8.9,4.1,Moderate
+Male,26,10.6,232881,Salmonella typhi,Escherichia coli,8.2,4.7,Low
+Female,19,13.5,222111,Staphylococcus,-,8.7,4.9,Low
+Female,67,10.4,273449,Salmonella typhi,-,8.9,3.5,High
+Male,57,12.5,128331,Salmonella typhi,-,8.9,4.4,High
+Male,35,14.1,291619,Escherichia coli,Escherichia coli,9.8,4.4,Low
+Female,51,13.8,139426,Salmonella typhi,-,8.7,3.9,High
+Female,39,15,188616,Salmonella typhi,-,9.5,4.7,Moderate
+Female,57,11.7,196658,Staphylococcus,-,8.4,4.5,Moderate
+Male,35,13.4,293494,Escherichia coli,Klebsiella pneumoniae,8.8,3.9,High
+Female,62,14.2,222478,Escherichia coli,Klebsiella pneumoniae,9.4,3.7,High
+Male,42,11.8,170275,Escherichia coli,Escherichia coli,8.4,4.5,Moderate
+Female,32,13.8,246111,Staphylococcus,Escherichia coli,9.3,4.6,Low
+Female,53,13.7,157167,Salmonella typhi,-,9.9,3.8,Low
+Male,36,13.6,237925,Escherichia coli,Escherichia coli,9.6,4.7,Low
+Male,27,10.8,283337,Escherichia coli,Klebsiella pneumoniae,8.8,3.9,Moderate
+Female,27,13.3,189420,Escherichia coli,-,8.3,4.5,Moderate
+Male,57,11,203016,Salmonella typhi,-,9.3,4.4,High
+Female,37,12.5,225673,Salmonella typhi,Klebsiella pneumoniae,10,4.8,Low
+Female,41,14.9,282074,Staphylococcus,Klebsiella pneumoniae,9.1,4.9,Low
+Female,23,12.4,177973,Staphylococcus,Escherichia coli,8.5,3.9,High
+Female,18,10.7,231875,Staphylococcus,Escherichia coli,8.8,4.9,High
+Male,55,11.2,131516,Staphylococcus,Escherichia coli,8.8,4.2,High
+Female,58,13.3,266849,Staphylococcus,Klebsiella pneumoniae,8.4,4.7,Moderate
+Female,27,13.1,172393,Salmonella typhi,Klebsiella pneumoniae,8.9,3.6,Low
+Male,42,12.9,256066,Salmonella typhi,-,9.2,4.1,Moderate
+Male,41,13.9,152225,Salmonella typhi,Klebsiella pneumoniae,9.1,4,High
+Male,44,12.5,194850,Salmonella typhi,-,10,4.5,Moderate
+Male,43,11.8,204601,Escherichia coli,-,8,3.7,High
+Male,49,10.1,125026,Escherichia coli,-,8.9,4.5,High
+Female,29,12.6,277098,Staphylococcus,Escherichia coli,8.5,4.8,Moderate
+Male,39,10.4,152731,Staphylococcus,Klebsiella pneumoniae,8.1,4.7,Moderate
+Female,55,13.9,121759,Salmonella typhi,Klebsiella pneumoniae,8,4.2,High
+Female,29,12.6,250358,Escherichia coli,Klebsiella pneumoniae,9,4.6,Low
+Male,25,13.1,211847,Staphylococcus,-,9.1,4,Low
+Female,47,12.7,277660,Salmonella typhi,-,9.3,3.8,Moderate
+Female,65,10.3,220353,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,High
+Female,41,10.3,226907,Staphylococcus,-,8,3.7,High
+Male,55,12.3,260544,Salmonella typhi,Klebsiella pneumoniae,9,3.5,High
+Male,52,14.1,225376,Escherichia coli,-,8.7,4.9,High
+Female,70,10.6,246631,Staphylococcus,-,9.1,4.5,Low
+Male,31,10.1,222307,Escherichia coli,Escherichia coli,8.8,4.1,Low
+Male,25,11.9,136347,Salmonella typhi,Klebsiella pneumoniae,9.3,4.9,Low
+Male,45,10.6,270652,Staphylococcus,Escherichia coli,8.7,4.1,Low
+Female,54,10.1,182700,Salmonella typhi,Escherichia coli,9.7,4.3,Moderate
+Male,69,11,134200,Salmonella typhi,Klebsiella pneumoniae,9.5,4.5,High
+Female,50,14.3,198282,Staphylococcus,Escherichia coli,8.3,4.2,Moderate
+Female,19,12.1,254478,Staphylococcus,Escherichia coli,8.2,3.8,High
+Male,27,14.5,202101,Escherichia coli,Klebsiella pneumoniae,9.6,4.1,Low
+Female,67,11.7,247264,Salmonella typhi,Klebsiella pneumoniae,8.9,4.6,Moderate
+Male,39,13.7,242459,Escherichia coli,Escherichia coli,9,4,Low
+Female,59,13.7,218477,Salmonella typhi,Escherichia coli,9.1,4,High
+Female,62,11,153088,Salmonella typhi,Escherichia coli,9.8,4.6,Low
+Female,47,12,155402,Salmonella typhi,Escherichia coli,8.9,4.7,High
+Female,63,11.5,174242,Staphylococcus,-,9.3,3.8,Low
+Female,29,13.8,178039,Staphylococcus,Escherichia coli,9.5,4.6,Moderate
+Male,45,10.3,262761,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,Moderate
+Female,33,11.6,269082,Staphylococcus,Escherichia coli,9.4,3.9,Moderate
+Male,57,14.7,261054,Staphylococcus,Escherichia coli,9,3.9,Moderate
+Male,63,14,229818,Salmonella typhi,Klebsiella pneumoniae,8.2,4.2,Low
+Male,42,11.5,120681,Escherichia coli,-,8.8,4.3,High
+Male,58,11.8,154557,Staphylococcus,-,8.4,4.6,High
+Male,35,11.3,228269,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,High
+Male,64,14.7,252565,Escherichia coli,Escherichia coli,8.2,3.8,Low
+Female,22,14.7,277963,Escherichia coli,Escherichia coli,9.9,4.3,High
+Male,67,10.6,276620,Escherichia coli,Klebsiella pneumoniae,10,3.7,Low
+Female,36,12,141211,Escherichia coli,-,8.4,4.5,Moderate
+Female,36,10.7,282394,Escherichia coli,Klebsiella pneumoniae,9.5,4.7,Low
+Female,58,11.5,165463,Escherichia coli,-,9.9,4.7,High
+Female,21,11.4,214135,Escherichia coli,-,8.5,4.1,Moderate
+Female,51,12.1,163976,Salmonella typhi,-,9.2,3.8,Moderate
+Female,26,11.4,222508,Escherichia coli,-,9.6,3.5,Moderate
+Female,64,13,274927,Staphylococcus,-,8.6,4.1,Low
+Male,25,14.7,196015,Escherichia coli,-,9.9,3.8,High
+Male,55,12.2,152381,Staphylococcus,Escherichia coli,9.2,4,Moderate
+Male,53,10.9,222298,Staphylococcus,Klebsiella pneumoniae,8.6,4.8,Moderate
+Male,62,14.1,283827,Escherichia coli,Escherichia coli,8.4,4.4,Low
+Female,61,10.9,185690,Staphylococcus,-,8.6,4,Moderate
+Female,68,11.3,280694,Staphylococcus,Escherichia coli,8.5,3.9,Low
+Male,21,10.6,226577,Staphylococcus,-,8.8,3.9,Moderate
+Male,50,10.6,293648,Staphylococcus,Klebsiella pneumoniae,9.1,5,Moderate
+Male,70,11,290206,Escherichia coli,-,8.4,4.5,Moderate
+Male,43,11.9,293139,Staphylococcus,Escherichia coli,8.3,3.8,Low
+Female,60,13.9,263736,Salmonella typhi,Klebsiella pneumoniae,8.4,3.6,Low
+Male,34,12.5,215988,Escherichia coli,Escherichia coli,8.7,3.9,Moderate
+Female,51,10.8,258485,Salmonella typhi,Escherichia coli,8,4.6,Low
+Male,46,13.8,135292,Escherichia coli,-,9,4.8,Moderate
+Female,68,13,168405,Escherichia coli,Escherichia coli,8.9,4.4,Low
+Female,66,11.2,250524,Escherichia coli,-,9,3.9,Low
+Male,41,13.9,178364,Staphylococcus,Klebsiella pneumoniae,9.7,4.2,High
+Female,19,12.1,128224,Staphylococcus,Escherichia coli,9,4.9,Low
+Male,33,13.8,264150,Salmonella typhi,Escherichia coli,8.9,4.2,Low
+Male,61,14,251573,Salmonella typhi,Escherichia coli,9.5,3.7,High
+Male,32,12,166094,Salmonella typhi,Escherichia coli,9.5,4.1,Low
+Male,24,13.6,145376,Escherichia coli,-,8.3,4.5,Moderate
+Female,35,13.6,224323,Salmonella typhi,Klebsiella pneumoniae,9.4,4.7,Low
+Female,65,12.8,200217,Salmonella typhi,-,9,5,Moderate
+Male,33,10.9,297825,Staphylococcus,Klebsiella pneumoniae,8.4,4.9,Low
+Male,21,13.7,234102,Escherichia coli,Escherichia coli,8.9,3.7,Low
+Male,36,12,186476,Salmonella typhi,-,8.6,4,High
+Female,50,10.9,226451,Escherichia coli,Klebsiella pneumoniae,8.7,4.6,High
+Male,21,10.4,174021,Staphylococcus,-,8.6,4.1,Low
+Male,49,14.7,285788,Salmonella typhi,-,8.2,4.1,High
+Male,47,11.7,274681,Salmonella typhi,-,8.6,3.8,Low
+Female,18,13.5,223949,Staphylococcus,-,9.4,4.4,Moderate
+Male,30,12.9,166858,Escherichia coli,-,9.1,4.7,Low
+Female,18,10.9,188457,Salmonella typhi,Klebsiella pneumoniae,8.8,3.7,Low
+Male,46,11.3,233748,Staphylococcus,Escherichia coli,9.6,4.3,High
+Female,58,11,139726,Staphylococcus,Klebsiella pneumoniae,8.2,4.5,High
+Female,46,11.7,292432,Salmonella typhi,Escherichia coli,8.4,4.9,Low
+Male,67,13.9,242921,Salmonella typhi,Escherichia coli,9.4,3.8,Low
+Female,55,11.6,241507,Escherichia coli,Klebsiella pneumoniae,8.9,4.6,Low
+Male,32,14.2,160244,Escherichia coli,Escherichia coli,8.9,3.7,Low
+Female,46,14.8,277780,Escherichia coli,-,8.4,4.6,Moderate
+Male,32,10.4,235876,Staphylococcus,Klebsiella pneumoniae,8.6,4.1,High
+Female,40,13.8,171420,Staphylococcus,-,9.5,4.3,Low
+Male,32,13.4,224017,Escherichia coli,Escherichia coli,9.6,4,High
+Male,38,10.2,122498,Staphylococcus,-,9.1,4.6,Moderate
+Male,68,10.5,142428,Staphylococcus,Escherichia coli,8.6,4.2,Low
+Female,49,12.6,227175,Escherichia coli,Escherichia coli,8.1,4,Moderate
+Female,40,11.1,177798,Staphylococcus,Klebsiella pneumoniae,9.4,4.7,Low
+Male,35,13.5,131020,Salmonella typhi,Escherichia coli,8.4,3.6,Moderate
+Female,23,10.8,297073,Salmonella typhi,Klebsiella pneumoniae,8.1,4.3,High
+Male,65,11.5,237296,Escherichia coli,Klebsiella pneumoniae,9.9,4.8,Moderate
+Male,66,10.3,171858,Salmonella typhi,Klebsiella pneumoniae,9.6,4.9,Low
+Male,21,14.5,145663,Escherichia coli,Klebsiella pneumoniae,9.5,4.4,Low
+Male,23,14.6,192384,Staphylococcus,Escherichia coli,9.2,4.5,Moderate
+Male,42,14.4,134382,Escherichia coli,-,8.7,3.7,High
+Male,42,12.9,174928,Salmonella typhi,-,9.4,4.7,High
+Female,23,13.2,152380,Escherichia coli,-,9.9,4.6,High
+Female,48,10.5,207266,Salmonella typhi,Klebsiella pneumoniae,8.7,3.9,Moderate
+Female,43,14.2,166308,Salmonella typhi,-,8.5,3.6,Low
+Male,36,14.9,270984,Escherichia coli,-,9.5,3.7,High
+Female,44,11,178327,Staphylococcus,Klebsiella pneumoniae,8.1,3.6,High
+Female,64,12.1,188483,Escherichia coli,-,9.7,4.2,Moderate
+Male,18,11.4,258530,Staphylococcus,Escherichia coli,8.9,4.3,Low
+Male,18,13.9,136774,Escherichia coli,-,9.8,5,Moderate
+Female,31,14.9,202641,Escherichia coli,Escherichia coli,9.6,3.7,Moderate
+Male,20,10.5,160320,Escherichia coli,Klebsiella pneumoniae,8.7,4.7,Moderate
+Female,39,14.7,245738,Escherichia coli,Klebsiella pneumoniae,9.9,4,High
+Male,55,10.8,175100,Escherichia coli,Escherichia coli,9,4.7,Low
+Female,24,13.4,270002,Salmonella typhi,Escherichia coli,8.7,4.9,Moderate
+Female,54,14.7,221510,Escherichia coli,Escherichia coli,8.5,4.9,High
+Male,59,11,279431,Staphylococcus,-,9.7,4.7,Low
+Female,22,12.4,140498,Escherichia coli,-,8.7,5,Moderate
+Male,36,10.2,174250,Staphylococcus,Escherichia coli,8.8,4.7,Low
+Male,68,12.2,198767,Salmonella typhi,Klebsiella pneumoniae,8.1,4.1,High
+Female,56,14.8,198377,Salmonella typhi,Klebsiella pneumoniae,8.1,4.2,High
+Male,30,10.5,163435,Staphylococcus,-,9.2,4.6,Moderate
+Male,52,12.6,179472,Staphylococcus,Klebsiella pneumoniae,9,4.7,High
+Male,53,14.1,125629,Salmonella typhi,Escherichia coli,8.6,4.9,Low
+Male,27,10.2,121845,Salmonella typhi,-,8.1,4.7,Moderate
+Male,33,12.4,227708,Escherichia coli,-,9.7,4.8,High
+Female,29,14.1,286194,Escherichia coli,Klebsiella pneumoniae,9.2,3.7,High
+Male,53,13.8,276211,Salmonella typhi,-,9.2,4.6,High
+Female,53,13.7,238248,Salmonella typhi,Klebsiella pneumoniae,8.5,4.1,High
+Female,30,12.2,150640,Staphylococcus,-,8.9,3.8,Low
+Male,20,14.9,176456,Salmonella typhi,Escherichia coli,8.4,4.8,Moderate
+Male,58,10.2,191834,Staphylococcus,Klebsiella pneumoniae,9.2,4.2,Low
+Female,45,13.5,223823,Staphylococcus,Klebsiella pneumoniae,9.1,4.7,Low
+Male,47,10.5,296049,Staphylococcus,Klebsiella pneumoniae,9.6,4.8,Moderate
+Male,51,11.5,299719,Salmonella typhi,-,9.2,4.8,Low
+Female,55,13.8,171116,Salmonella typhi,-,8.6,3.8,Moderate
+Male,50,12,262919,Staphylococcus,-,9,3.9,Moderate
+Female,33,11,183052,Escherichia coli,Escherichia coli,8.6,4.8,High
+Female,35,12.1,290764,Staphylococcus,Klebsiella pneumoniae,9.7,3.6,Low
+Male,35,12.7,132392,Salmonella typhi,Escherichia coli,8.6,4.9,Low
+Female,32,13.6,177667,Salmonella typhi,Klebsiella pneumoniae,8.3,3.5,Moderate
+Female,28,10.4,181154,Staphylococcus,Klebsiella pneumoniae,9.7,4.5,Moderate
+Female,56,10.2,244228,Staphylococcus,Escherichia coli,9.5,4.6,Moderate
+Female,31,14.9,239852,Staphylococcus,-,8.8,4.2,Low
+Female,27,14.2,259369,Staphylococcus,Klebsiella pneumoniae,9.2,4.4,Low
+Female,51,13,137143,Salmonella typhi,-,9.6,4.4,High
+Female,19,10.7,281796,Staphylococcus,Escherichia coli,8.5,4.9,Moderate
+Female,68,13.9,262155,Salmonella typhi,Escherichia coli,9,4.2,High
